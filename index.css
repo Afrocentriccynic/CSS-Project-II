@@ -1,0 +1,21 @@
+div.first {
+    background-color: #4c66a4;
+    color: black;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    width:250px;
+    height:150px;
+}
+
+hr {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#666;
+    opacity: 0.5;
+}
+
